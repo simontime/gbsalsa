@@ -1,2 +1,2 @@
 # gbsalsa
-Decrypts MIDI files from Cookie Run: OvenBreak
+Decrypts/encrypts MIDI files from Cookie Run: OvenBreak
